@@ -1,5 +1,5 @@
 # 2048-Applet
-![Homescreen](homescreen.jpg?raw=true "") ![Gameplay](gameplay.jpg?raw=true "")
+![Homescreen](homescreen.jpg?raw=true "") ![Gameplay](gameplay.JPG?raw=true "")
 
 # Download Instructions 
 Download the folder 2048

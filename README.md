@@ -1,5 +1,5 @@
 # 2048-Applet
-![2048 Java Applet](homescreen.jpg?raw=true "")
+![2048 Java Applet](op.gif?raw=true "")
 
 # Download Instructions 
 Download the folder 2048

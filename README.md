@@ -7,3 +7,4 @@ Download the folder 2048
 Run TwentyFourtyEight.java
 <p> </p>
 *If you need help with how to play the game then click on instructions from the game menu*
+THERE'S MUSIC SO MUTE IF YOU DONT WANT ANY NOISE

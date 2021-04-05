@@ -1,4 +1,7 @@
 # 2048-Applet
+A modified version of 2048 with themed gif tiles and easier Gameplay! Click here to checkout some pictures of the UI.
+
+
 ![Homescreen](homescreen.jpg?raw=true "") ![Gameplay](gameplay.JPG?raw=true "")
 
 # Download Instructions 
